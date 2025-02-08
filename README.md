@@ -8,6 +8,7 @@ This  website is use for studies  for my class mates  , I hope this website is u
 ✅ Setup Version Control – Use Git & GitHub for code management
 
 🛠 Phase 2: Backend & Database Setup
+**
 ✅ Choose a Database – Firebase, Supabase, or MySQL
 ✅ Create Data Structure – Example:
 
